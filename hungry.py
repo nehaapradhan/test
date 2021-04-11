@@ -1,6 +1,6 @@
 hungry = input("Are you hungry")
 
 if hungry=="yes":
-	print("Eat")
+	print("Eat food")
 else:
-	print("don't eat")
+	print("don't eat anything")
